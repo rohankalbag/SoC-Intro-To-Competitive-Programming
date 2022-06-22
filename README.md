@@ -11,7 +11,7 @@
 - Week 3,4,5 : Participated in Contests on Codeforces and studying Data Structures and Algorithms 
 
 ## Codeforces
-- Profile: [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/rohanrkalbag)
+- [Profile](https://codeforces.com/profile/rohanrkalbag)
 - [Contests Participated in Codeforces](https://codeforces.com/contests/with/rohanrkalbag)
 
 ## Learnings 
