@@ -52,7 +52,8 @@ After Week 7:
 ## Codechef
 - [Profile](https://www.codechef.com/users/rohankalbag)
 ## Learnings 
-- Effective usage of C++ STL classes such as `map`, `vector`, `set`, `priority_queue`, `queue`, `stack`
+- Estimating complexity of the problem before actually starting to solve to maximize success
+- Effective usage of C++ STL classes such as `map`, `vector`, `set`, `priority_queue`, `queue`, `stack` in order to reduce implementation time
 - Creation of a [generic template code](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/generic.cpp) for CP competitions to save time during contests
-- Participation strategies in competitive programming competitions hosted online
+- Exposure to effective problem solving strategies aimed towards competitions hosted online
 - Exploring DSA to supplement CP and problem solving ability
