@@ -39,12 +39,18 @@ Week 6:
 After Week 7:
 - [Codeforces Round #800 (Div. 2)](https://codeforces.com/contest/1694)
 - [Codeforces Round #804 (Div. 2)](https://codeforces.com/contest/1699)
+- [Codechef June Long One 2022 Division 3 (Rated)](https://www.codechef.com/JUNE221C)
 
 ## Codeforces
 - [Profile](https://codeforces.com/profile/rohanrkalbag)
 - [Contests Participated in Codeforces](https://codeforces.com/contests/with/rohanrkalbag)
 - [Submissions](https://codeforces.com/submissions/rohanrkalbag)
 
+## Hackerrank
+- [Profile](https://www.hackerrank.com/kalbag_rohan_r)
+
+## Codechef
+- [Profile](https://www.codechef.com/users/rohankalbag)
 ## Learnings 
 - Effective usage of C++ STL classes such as `map`, `vector`, `set`, `priority_queue`, `queue`, `stack`
 - Creation of a [generic template code](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/generic.cpp) for CP competitions to save time during contests
