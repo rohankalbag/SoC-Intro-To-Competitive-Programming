@@ -8,6 +8,7 @@
 ## Contest Timeline
 > Apart from contests, material was provided for DSA and problems were solved on platforms like leetcode, hackerrank and codeforces
 
+### While exploring Concepts of DSA required for Competitive Programming here are some handy [LaTeX notes](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/Notes.pdf) made by me.
 
 Week 1 : [Codeforces Gym Contest on STL and Basic C++](https://github.com/rohankalbag/Intro-To-Competitive-Programming/tree/main/Week%201)
 
