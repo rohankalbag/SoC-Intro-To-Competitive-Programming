@@ -5,10 +5,25 @@
 - Mentee : Rohan Rajesh Kalbag
 - Mentor : Shivang Tiwari
 
-## Contest Timeline
-> Apart from contests, material was provided for DSA and problems were solved on platforms like leetcode, hackerrank and codeforces
 
-### While exploring Concepts of DSA required for Competitive Programming here are some handy [LaTeX notes](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/Notes.pdf) made by me.
+## Learnings 
+- Estimating complexity of the problem before actually starting to solve to maximize success
+- Effective usage of C++ STL classes such as `map`, `vector`, `set`, `priority_queue`, `queue`, `stack` in order to reduce implementation time
+- Creation of a [generic template code](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/generic.cpp) for CP competitions to save time during contests
+- Exposure to effective problem solving strategies aimed towards competitions hosted online
+- Exploring DSA to supplement CP and problem solving ability
+
+## Certification
+
+This Seasons of Code project was successfully accepted and I was awarded a [Certificate](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/soc-certificate.png) by the **Institute Technical Council, IIT Bombay** for the same
+
+![soc-certificate](https://user-images.githubusercontent.com/46604893/194545460-f350f23b-3e1c-4cbb-beb4-bbc11782f8c5.png)
+
+### While exploring concepts of DSA required for Competitive Programming here are some handy [LaTeX notes](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/Notes.pdf) that I created.
+
+## Project Timeline
+
+Apart from contests, material was provided for DSA and problems were solved on platforms like leetcode, hackerrank and codeforces
 
 Week 1 : [Codeforces Gym Contest on STL and Basic C++](https://github.com/rohankalbag/Intro-To-Competitive-Programming/tree/main/Week%201)
 
@@ -52,14 +67,4 @@ After Week 7:
 
 ## Codechef
 - [Profile](https://www.codechef.com/users/rohankalbag)
-## Learnings 
-- Estimating complexity of the problem before actually starting to solve to maximize success
-- Effective usage of C++ STL classes such as `map`, `vector`, `set`, `priority_queue`, `queue`, `stack` in order to reduce implementation time
-- Creation of a [generic template code](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/generic.cpp) for CP competitions to save time during contests
-- Exposure to effective problem solving strategies aimed towards competitions hosted online
-- Exploring DSA to supplement CP and problem solving ability
-
-## This Seasons of Code project was successfully accepted and I was awarded a [Certificate](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/soc-certificate.png) by the Institute Technical Council, IIT Bombay for the same
-
-![soc-certificate](https://user-images.githubusercontent.com/46604893/194545460-f350f23b-3e1c-4cbb-beb4-bbc11782f8c5.png)
 
