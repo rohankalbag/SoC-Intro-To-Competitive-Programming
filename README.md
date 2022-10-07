@@ -57,3 +57,8 @@ After Week 7:
 - Creation of a [generic template code](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/generic.cpp) for CP competitions to save time during contests
 - Exposure to effective problem solving strategies aimed towards competitions hosted online
 - Exploring DSA to supplement CP and problem solving ability
+
+## This Seasons of Code project was successfully accepted and I was awarded a [Certificate](https://github.com/rohankalbag/Intro-To-Competitive-Programming/blob/main/soc-certificate.png) by the Institute Technical Council, IIT Bombay for the same
+
+![soc-certificate](https://user-images.githubusercontent.com/46604893/194545460-f350f23b-3e1c-4cbb-beb4-bbc11782f8c5.png)
+
