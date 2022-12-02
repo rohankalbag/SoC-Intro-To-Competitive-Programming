@@ -1,6 +1,6 @@
 # WnCC Seasons of Code 2022
 
-## Introduction To Competitive Programming
+## Competitive Programming
 
 - Mentee : Rohan Rajesh Kalbag
 - Mentor : Shivang Tiwari
